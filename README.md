@@ -5,7 +5,7 @@
 <li> 🌱 Learning DevOps.</li>
 <li> 🎓 Pursuing masters in Data analysis.</li>
 <h3> How to reach me:</h3>
-<li>📫 Gmail <a href="abighimire07@gmail.com">abighimire07@gmail.com</a></li>
+<li>📫 Gmail <strong><em>abighimire07@gmail.com</em></strong></li>
 <li>📫 Linked in profile https://www.linkedin.com/in/abinav-ghimire-89b4571b5/</li> 
 <li> 📝 Medium articles https://medium.com/@abighimire07</li>
 <h3 align="left">Languages and framework I have used:</h3>
